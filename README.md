@@ -8,11 +8,11 @@ This repo is my hands-on learning project for understanding how RAG pipelines wo
 
 ## Tech Stack
 
-- **Language:** Python (>=3.13)
+- **Language:** Python (3.13)
 - **Package management:** [uv](https://github.com/astral-sh/uv)
 - **Framework:** LangChain
-- **Vector database:** _add yours (e.g. Chroma, FAISS, Pinecone, Qdrant)_
-- **LLM provider:** _add yours (e.g. OpenAI, Anthropic, local via Ollama)_
+- **Vector database:**
+- **LLM provider:** 
 
 ## Project Structure
 
@@ -30,7 +30,7 @@ RAG/
 
 ### Prerequisites
 
-- Python 3.13+
+- Python 3.13
 - [uv](https://docs.astral.sh/uv/getting-started/installation/) installed
 
 ### Installation
